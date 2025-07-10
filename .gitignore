@@ -22,3 +22,6 @@ target
 
 # folder used by direnv when activating development environment
 .direnv
+
+# nix build artifacts directory
+result
